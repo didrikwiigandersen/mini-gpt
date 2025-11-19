@@ -12,3 +12,6 @@ A small GPT-style Transformer built from scratch in PyTorch
 - Simple training loop with configurable hyperparameters
 - Script for sampling / text generation from the trained model
 - Clean, modular project structure suitable for further experiments
+
+## References
+- Let's build GPT: from scratch, in code, spelled out. (Andrej Karpathy, 2023)
