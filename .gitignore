@@ -1,6 +1,9 @@
 # Virtual environments
 .venv
 
+.data
+config.py
+
 # PyCharm
 .idea
 
